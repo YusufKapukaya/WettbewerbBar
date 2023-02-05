@@ -1,0 +1,22 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h1{
+    
+    position: absolute;
+    margin-bottom: 20px;
+}
+
+.chart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    position: absolute;
+    top: 50px;
+    transition: all 0.5s linear;
+    margin-bottom: 45px;
+}
